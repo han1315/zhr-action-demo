@@ -28,6 +28,9 @@ jobs:
           
           - username: ZJU_USERNAME3 # tanhii
             password: ZJU_PASSWORD3
+            
+          - username: ZJU_USERNAME4 # weiling
+            password: ZJU_PASSWORD4
           
     steps:
       - name: 打卡
