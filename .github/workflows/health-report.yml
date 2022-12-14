@@ -39,6 +39,18 @@ jobs:
           - username: ZJU_USERNAME5 # gaobai
             password: ZJU_PASSWORD5
             dingtalk_token: DINGTALK_TOKEN
+            
+          - username: ZJU_USERNAME6 # zhenxiao
+            password: ZJU_PASSWORD6
+            dingtalk_token: DINGTALK_TOKEN 
+            
+          - username: ZJU_USERNAME7 # yihong
+            password: ZJU_PASSWORD7
+            dingtalk_token: DINGTALK_TOKEN
+            
+          - username: ZJU_USERNAME8 # jason
+            password: ZJU_PASSWORD8
+            dingtalk_token: DINGTALK_TOKEN
           
     steps:
       - name: 打卡
