@@ -22,15 +22,19 @@ jobs:
              
           - username: ZJU_USERNAME1 # zhaoyi
             password: ZJU_PASSWORD1
+            dingtalk_token: DINGTALK_TOKEN
 
           - username: ZJU_USERNAME2 # siuhong
             password: ZJU_PASSWORD2
+            dingtalk_token: DINGTALK_TOKEN
           
           - username: ZJU_USERNAME3 # tanhii
             password: ZJU_PASSWORD3
+            dingtalk_token: DINGTALK_TOKEN
             
           - username: ZJU_USERNAME4 # weiling
             password: ZJU_PASSWORD4
+            dingtalk_token: DINGTALK_TOKEN
           
     steps:
       - name: 打卡
