@@ -35,6 +35,10 @@ jobs:
           - username: ZJU_USERNAME4 # weiling
             password: ZJU_PASSWORD4
             dingtalk_token: DINGTALK_TOKEN
+            
+          - username: ZJU_USERNAME5 # gaobai
+            password: ZJU_PASSWORD5
+            dingtalk_token: DINGTALK_TOKEN
           
     steps:
       - name: 打卡
