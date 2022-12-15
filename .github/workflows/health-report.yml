@@ -63,6 +63,10 @@ jobs:
           - username: ZJU_USERNAME11 # yenyi
             password: ZJU_PASSWORD11
             dingtalk_token: DINGTALK_TOKEN
+            
+          - username: ZJU_USERNAME11 # melvin
+            password: ZJU_PASSWORD11
+            dingtalk_token: DINGTALK_TOKEN
           
     steps:
       - name: 打卡
