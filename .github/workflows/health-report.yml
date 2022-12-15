@@ -64,8 +64,8 @@ jobs:
             password: ZJU_PASSWORD11
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME11 # melvin
-            password: ZJU_PASSWORD11
+          - username: ZJU_USERNAME12 # melvin
+            password: ZJU_PASSWORD12
             dingtalk_token: DINGTALK_TOKEN
           
     steps:
