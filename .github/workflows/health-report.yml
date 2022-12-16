@@ -20,63 +20,63 @@ jobs:
             cookie_eai_sess: ZJU_COOKIE
             dingtalk_token: DINGTALK_TOKEN
              
-          - username: ZJU_USERNAME1 # zhaoyi
+          - username: ZJU_USERNAME1 # zhaoyi 3200300142
             password: ZJU_PASSWORD1
             dingtalk_token: DINGTALK_TOKEN
 
-          - username: ZJU_USERNAME2 # siuhong
-            password: ZJU_PASSWORD2
+          - username: ZJU_USERNAME2 # siuhong 3200300602
+            password: ZJU_PASSWORD2 
             dingtalk_token: DINGTALK_TOKEN
           
-          - username: ZJU_USERNAME3 # tanhii
+          - username: ZJU_USERNAME3 # tanhii 3200300315
             password: ZJU_PASSWORD3
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME4 # weiling
+          - username: ZJU_USERNAME4 # weiling 3200300262
             password: ZJU_PASSWORD4
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME5 # gaobai
+          - username: ZJU_USERNAME5 # gaobai 3190300394
             password: ZJU_PASSWORD5
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME6 # zhenxiao
+          - username: ZJU_USERNAME6 # zhenxiao 3210300297
             password: ZJU_PASSWORD6
             dingtalk_token: DINGTALK_TOKEN 
             
-          - username: ZJU_USERNAME7 # yihong
+          - username: ZJU_USERNAME7 # yihong 3190300876
             password: ZJU_PASSWORD7
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME8 # jason
+          - username: ZJU_USERNAME8 # jason 3200300334 
             password: ZJU_PASSWORD8
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME9 # yiteng
+          - username: ZJU_USERNAME9 # yiteng 3190300285
             password: ZJU_PASSWORD9
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME10 # tanhii npy
+          - username: ZJU_USERNAME10 # tanhii npy 22240083
             password: ZJU_PASSWORD10
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME11 # yenyi
+          - username: ZJU_USERNAME11 # yenyi 3200300296
             password: ZJU_PASSWORD11
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME12 # melvin
+          - username: ZJU_USERNAME12 # melvin 321300062
             password: ZJU_PASSWORD12
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME13 # cslim
+          - username: ZJU_USERNAME13 # cslim 3190300304
             password: ZJU_PASSWORD13
             dingtalk_token: DINGTALK_TOKEN
           
-          - username: ZJU_USERNAME14 # rongxiang
+          - username: ZJU_USERNAME14 # rongxiang 3200300414
             password: ZJU_PASSWORD14
             dingtalk_token: DINGTALK_TOKEN
             
-          - username: ZJU_USERNAME15 # weixian
+          - username: ZJU_USERNAME15 # weixian 3200300109
             password: ZJU_PASSWORD15
             dingtalk_token: DINGTALK_TOKEN
           
