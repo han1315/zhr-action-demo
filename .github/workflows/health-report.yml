@@ -75,6 +75,10 @@ jobs:
           - username: ZJU_USERNAME14 # rongxiang
             password: ZJU_PASSWORD14
             dingtalk_token: DINGTALK_TOKEN
+            
+          - username: ZJU_USERNAME15 # weixian
+            password: ZJU_PASSWORD15
+            dingtalk_token: DINGTALK_TOKEN
           
     steps:
       - name: 打卡
